@@ -1,0 +1,15 @@
+/testFiles/
+/*.xml
+/*.iml
+/.idea/frameworkLessonHistory/
+/.idea/libraries/
+/.idea/modules/
+/gradle/
+/build.gradle
+/course-info.yaml
+/course-remote-info.yaml
+/gradlew
+/gradlew.bat
+/settings.gradle
+/Problems/lesson-info.yaml
+/.gitignore
