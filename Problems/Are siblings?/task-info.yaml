@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Siblings {
+
+        public static boolean areSiblings(File f1, File f2) {
+            // implement me
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8095
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:16: error: class, interface, or enum expected
+    import java.io.File;
+    ^
+    1 error
+  time: Sun, 26 Jul 2020 11:41:14 UTC
+record: -1
